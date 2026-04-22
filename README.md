@@ -152,7 +152,7 @@ pie title Salony's Tech Radar 2026 ✨
 ---
 
 <div align="center">
-  <img src="https://komarov.com/ghpvc/?username=salonyranjan&color=00ffff&style=for-the-badge&label=VISITORS" alt="Visitors" />
+ <img src="https://api.visitorbadge.io/api/combined?user=salonyranjan&repo=salonyranjan&labelColor=%231a1a2e&countColor=%2300ffff&style=for-the-badge&label=NEURAL_VISITS" alt="Visitors" />
   <br><br>
   <span style="color: #00ffff; font-weight: bold;">Built with ❤️ from Patna, Bihar | NSEC 2026 🚀</span>
 </div>
