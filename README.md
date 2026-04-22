@@ -25,36 +25,47 @@
 ## 🧬 Agentic RAG Architecture (Interactive Flow)
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 
-    'primaryColor': '#00ffff', 
-    'primaryTextColor': '#ffffff', 
-    'primaryBorderColor': '#ff00ff', 
-    'lineColor': '#00ff88', 
-    'secondaryColor': '#1a1a2e' 
-  }}}%%
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'primaryColor': '#00e0ff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#00e0ff',
+    'lineColor': '#00ff88',
+    'secondaryColor': '#1a1a2e',
+    'fontSize': '13px'
+  }
+}}%%
 graph TB
     A((📄 PDF)) --> B{PageWhisper<br/>Parser}
     B --> C[Gemini 2.5 Pro<br/>Embeddings]
     C --> D[LangChain<br/>RAG Agent]
-    D -->|Multi-Agent| E[Vapi WebRTC<br/>Voice Engine]
+    D -->|Multi‑Agent| E[Vapi WebRTC<br/>Voice Engine]
     E --> F[11 Labs<br/>Persona Synth]
     F --> G((🎙️ Interview<br/>Output))
-    G -.->|Sub-600ms| H(🚀 User)
+    G -.->|Sub‑600ms| H(🚀 User)
     
-    style A fill:#ff00ff,stroke:#ffffff,stroke-width:3px
-    style G fill:#00ff00,stroke:#ffffff,stroke-width:3px
-    style H fill:#00ffff,stroke:#ffffff,stroke-width:3px
+    classDef inputNode fill:#ff00ff,stroke:#cc00cc,stroke-width:2px,color:#ffffff;
+    classDef agentNode fill:#00e0ff,stroke:#00b3e0,stroke-width:2px,color:#000000;
+    classDef voiceNode fill:#00ff88,stroke:#00cc66,stroke-width:2px,color:#000000;
+    classDef outputNode fill:#00ff00,stroke:#00cc00,stroke-width:2px,color:#000000;
+    classDef userNode fill:#00ffff,stroke:#00cccc,stroke-width:2px,color:#000000;
+
+    class A inputNode
+    class B,C,D agentNode
+    class E,F voiceNode
+    class G outputNode
+    class H userNode
 ```
 
 ## 🎮 3D Immersive Previews
 
 <div align="center">
-
 <!-- VertexFlow 3D Cube -->
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
       <feMerge> 
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -65,28 +76,46 @@ graph TB
       <stop offset="50%" stop-color="#ff00ff"/>
       <stop offset="100%" stop-color="#00ff88"/>
     </linearGradient>
+    <radialGradient id="cubeLight" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="70%" stop-color="#00ffff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <g transform="rotate(45 60 60)" filter="url(#neon-glow)">
-    <!-- Cube faces -->
-    <path d="M30 30 L90 30 L75 15 Z" fill="url(#cubeGrad)" opacity="0.8"/>
-    <path d="M30 30 L75 15 L75 45 Z" fill="#ff00ff" opacity="0.6"/>
-    <path d="M90 30 L75 15 L75 45 Z" fill="#00ff88" opacity="0.7"/>
-    <!-- Rotation animation -->
-    <animateTransform attributeName="transform" type="rotate" values="0 60 60; 360 60 60" dur="20s" repeatCount="indefinite"/>
+  <g transform="rotate(45 70 70)" filter="url(#neon-glow)">
+    <path d="M35 35 L95 35 L80 20 Z" fill="url(#cubeGrad)" opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+    <path d="M35 35 L80 20 L80 50 Z" fill="#ff00ff" opacity="0.7" stroke="#ffffff" stroke-width="1"/>
+    <path d="M95 35 L80 20 L80 50 Z" fill="#00ff88" opacity="0.75" stroke="#ffffff" stroke-width="1"/>
+    <path d="M35 35 L95 35 L95 95 L35 95 Z" fill="url(#cubeLight)" opacity="0.3"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 70 70; 360 70 70" dur="25s" repeatCount="indefinite"/>
   </g>
-  <text x="60" y="105" text-anchor="middle" fill="#00ffff" font-family="monospace" font-size="10" font-weight="bold" filter="url(#neon-glow)">VertexFlow</text>
+  <text x="70" y="125" text-anchor="middle" fill="#00ffff" font-family="monospace" font-size="12" font-weight="bold" filter="url(#neon-glow)">VertexFlow</text>
 </svg>
 
 <!-- PageWhisper Hologram -->
-<svg width="120" height="120" viewBox="0 0 120 120">
-  <circle cx="60" cy="60" r="50" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#neon-glow)">
-    <animate attributeName="r" values="50;55;50" dur="3s" repeatCount="indefinite"/>
+<svg width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle cx="70" cy="70" r="55" fill="none" stroke="#00ffff" stroke-width="3" stroke-linecap="round" filter="url(#neon-glow)">
+    <animate attributeName="r" values="55;62;55" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <text x="60" y="65" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="12" font-weight="bold">PageWhisper</text>
+  <circle cx="70" cy="70" r="40" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.8" filter="url(#neon-glow)">
+    <animate attributeName="r" values="40;45;40" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="70" r="20" fill="url(#cubeGrad)" opacity="0.6" filter="url(#neon-glow)">
+    <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="70" y="75" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="14" font-weight="bold" filter="url(#neon-glow)">PageWhisper</text>
 </svg>
-
 </div>
-
 ## 🔥 Featured Projects Galaxy ✨
 
 | Project | Tech Stack | Status | Links |
@@ -105,9 +134,17 @@ graph TB
   </picture>
 </div>
 
-## 🎵 Currently Jamming (Spotify Widget)
-<!-- Replace YOUR_SPOTIFY_ID with your actual Spotify ID -->
-<span>![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5&layout=compact)</span>
+## 🎵 Currently Jamming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Synthwave-00F2FF?style=for-the-badge&logo=musicbrainz&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lo--Fi-7000FF?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Techno-FF00D4?style=for-the-badge&logo=tidal&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Currently+Vibing+to...+%F0%9F%8E%B5;%E2%96%B6%EF%B8%8F+Blinding+Lights+-+The+Weeknd;%E2%96%B6%EF%B8%8F+Starboy+-+Daft+Punk+Remix" />
+</div>
 
 ## 🛠️ Tech Radar (Live Scores)
 
@@ -130,29 +167,42 @@ pie title Salony's Tech Radar 2026 ✨
 - ☁️ **Cloud Native** → AWS + Docker + Vercel deployments
 ```
 
-## 🔗 Neural Network → Connect
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="linkedin.com/in/salony-ranjan-b63200280">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:salonyranjan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://vertex-flow-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/salony-ranjan-b63200280">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://vertex-flow-phi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=three.js&logoColor=0a0a0a&labelColor=1a1a2e&color=00ffff" alt="Portfolio"/>
-  </a>
-  <a href="mailto:salonyranjan@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836" alt="Email"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Open+to+SDE+Internships;Building+Future+with+AI+%26+RAG;Let's+build+something+epic!" />
 </div>
 
-## 💫 Support the Cyberpunk Dev
+## 💫 Support the Dev
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=white&color=FFDD00)](https://buymeacoffee.com/salonyranjan)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=181717)](https://github.com/sponsors/salonyranjan)
+<p align="center">
+  <a href="upi://pay?pa=7361020515@upi&pn=Salony%20Ranjan&cu=INR">
+    <img src="https://img.shields.io/badge/Donate_via_UPI-00F2FF?style=for-the-badge&logo=google-pay&logoColor=white" alt="Donate via UPI" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/salonyranjan">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Fueling+the+next+AI+breakthrough...;Your+support+keeps+the+servers+running!;Building+ZenithRAG+one+coffee+at+a+time." />
+</p>
+
 
 <div align="center">
  <img src="https://api.visitorbadge.io/api/combined?user=salonyranjan&repo=salonyranjan&labelColor=%231a1a2e&countColor=%2300ffff&style=for-the-badge&label=NEURAL_VISITS" alt="Visitors" />
   <br><br>
-  <span style="color: #00ffff; font-weight: bold;">Built with ❤️ from Patna, Bihar | NSEC 2026 🚀</span>
+  <span style="color: #00ffff; font-weight: bold;">Built with ❤️ from Earth | Salony Ranjan </span>
 </div>
