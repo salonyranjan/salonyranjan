@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+AI+Engineer;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;NSEC+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20Cyberpunk%20Universe&fontSize=40&animation=fadeIn&fontAlignY=30&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=40&animation=fadeIn&fontAlignY=30&fontColor=000000" />
 
 </div>
 
