@@ -186,3 +186,7 @@ pie title Salony's Tech Radar 2026 ✨
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=4000&color=7000FF&center=true&vCenter=true&width=400&lines=SYSTEM+STATUS%3A+FULLY+OPERATIONAL;BATCH+OF+2026+%40+NSEC;STAY+CURIOUS" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Views" />
+</div>
