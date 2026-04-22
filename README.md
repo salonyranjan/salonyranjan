@@ -158,20 +158,8 @@ pie title Salony's Tech Radar 2026 ✨
 <div align="center">
   <p>If you find my work helpful, consider fueling the next breakthrough! 🚀</p>
 
-  <a href="upi://pay?pa=salnyranjan-1@okhdfcbank&pn=Salony%20Ranjan&cu=INR">
-    <img src="https://img.shields.io/badge/Donate_via_UPI-00F2FF?style=for-the-badge&logo=google-pay&logoColor=white" alt="Donate via UPI" />
-  </a>
-
-  <br />
-  <br />
-
-  <kbd>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=upi://pay?pa=salnyranjan-1@okhdfcbank%26pn=Salony%20Ranjan%26cu=INR" alt="UPI QR Code" />
-  </kbd>
-
-  <br />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Scan+to+support+my+projects;salnyranjan-1@okhdfcbank;Building+the+Future+of+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Follow+to+support+my+projects;https://github.com/salonyranjan;Building+the+Future+of+AI" />
 </div>
 
 <br />
