@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+AI+Engineer;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;NSEC+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+CSBS;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;BTECH+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=35&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 
