@@ -7,14 +7,16 @@
 <br />
 
 <p align="center">
-  <img alt="aesthetic-tech-stack" src="https://raw.githubusercontent.com/zmotl/qo2el2qv/main/tech-stack-1.svg" width="850" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,react,nextjs,threejs,fastapi,aws,docker&perline=8" />
+  </a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&color=7000FF&center=true&vCenter=true&width=400&lines=CORE+TECHNOLOGIES+2026" />
 
 </div>
 
-## 🌌 Live Analytics (Neon Cyberpunk Edition)
+## 🌌 Live Analytics
 
 <div align="center">
 
@@ -62,64 +64,31 @@ graph TB
     class H userNode
 ```
 
+
 ## 🎮 3D Immersive Previews
 
 <div align="center">
-<!-- VertexFlow 3D Cube -->
-<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="cubeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00ffff"/>
-      <stop offset="50%" stop-color="#ff00ff"/>
-      <stop offset="100%" stop-color="#00ff88"/>
-    </linearGradient>
-    <radialGradient id="cubeLight" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
-      <stop offset="70%" stop-color="#00ffff" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <g transform="rotate(45 70 70)" filter="url(#neon-glow)">
-    <path d="M35 35 L95 35 L80 20 Z" fill="url(#cubeGrad)" opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
-    <path d="M35 35 L80 20 L80 50 Z" fill="#ff00ff" opacity="0.7" stroke="#ffffff" stroke-width="1"/>
-    <path d="M95 35 L80 20 L80 50 Z" fill="#00ff88" opacity="0.75" stroke="#ffffff" stroke-width="1"/>
-    <path d="M35 35 L95 35 L95 95 L35 95 Z" fill="url(#cubeLight)" opacity="0.3"/>
-    <animateTransform attributeName="transform" type="rotate" values="0 70 70; 360 70 70" dur="25s" repeatCount="indefinite"/>
-  </g>
-  <text x="70" y="125" text-anchor="middle" fill="#00ffff" font-family="monospace" font-size="12" font-weight="bold" filter="url(#neon-glow)">VertexFlow</text>
-</svg>
-
-<!-- PageWhisper Hologram -->
-<svg width="140" height="140" viewBox="0 0 140 140">
-  <defs>
-    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <circle cx="70" cy="70" r="55" fill="none" stroke="#00ffff" stroke-width="3" stroke-linecap="round" filter="url(#neon-glow)">
-    <animate attributeName="r" values="55;62;55" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="70" cy="70" r="40" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.8" filter="url(#neon-glow)">
-    <animate attributeName="r" values="40;45;40" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="70" cy="70" r="20" fill="url(#cubeGrad)" opacity="0.6" filter="url(#neon-glow)">
-    <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="70" y="75" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="14" font-weight="bold" filter="url(#neon-glow)">PageWhisper</text>
-</svg>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <strong>VertexFlow</strong><br />
+        <a href="https://vertex-flow-phi.vercel.app/">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=00FFFF&center=true&vCenter=true&width=200&height=150&lines=%E2%9D%96+3D+CORE;%E2%96%B3+VERTEX;%E2%97%A2+FLOW" />
+        </a><br />
+        <code>Cinematic Three.js</code>
+      </td>
+      <td align="center">
+        <strong>PageWhisper</strong><br />
+        <a href="https://page-whisper.vercel.app/">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=FF00FF&center=true&vCenter=true&width=200&height=150&lines=%E2%97%8E+AI+AGENT;%E2%9C%A7+RAG;%E2%97%8E+WHISPER" />
+        </a><br />
+        <code>RAG Intelligence</code>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 ## 🔥 Featured Projects Galaxy ✨
 
 | Project | Tech Stack | Status | Links |
@@ -138,6 +107,7 @@ graph TB
   </picture>
 </div>
 
+
 ## 🎵 Currently Jamming
 
 <p align="center">
@@ -150,6 +120,7 @@ graph TB
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Currently+Vibing+to...+%F0%9F%8E%B5;%E2%96%B6%EF%B8%8F+Blinding+Lights+-+The+Weeknd;%E2%96%B6%EF%B8%8F+Starboy+-+Daft+Punk+Remix" />
 </div>
 
+
 ## 🛠️ Tech Radar (Live Scores)
 
 ```mermaid
@@ -161,6 +132,7 @@ pie title Salony's Tech Radar 2026 ✨
     "AWS/FastAPI" : 88
     "GSAP/Animations" : 87
 ```
+
 
 ## 🌱 Currently Mastering (Agentic Era)
 
@@ -188,6 +160,7 @@ pie title Salony's Tech Radar 2026 ✨
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Open+to+SDE+Internships;Building+Future+with+AI+%26+RAG;Let's+build+something+epic!" />
 </div>
+
 
 ## 💫 Support the Dev
 
