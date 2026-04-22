@@ -28,41 +28,30 @@
 
 </div>
 
-## 🧬 Agentic RAG Architecture (Interactive Flow)
+## 🧬 Agentic RAG : System Intelligence
 
-```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'primaryColor': '#00e0ff',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#00e0ff',
-    'lineColor': '#00ff88',
-    'secondaryColor': '#1a1a2e',
-    'fontSize': '13px'
-  }
-}}%%
-graph TB
-    A((📄 PDF)) --> B{PageWhisper<br/>Parser}
-    B --> C[Gemini 2.5 Pro<br/>Embeddings]
-    C --> D[LangChain<br/>RAG Agent]
-    D -->|Multi‑Agent| E[Vapi WebRTC<br/>Voice Engine]
-    E --> F[11 Labs<br/>Persona Synth]
-    F --> G((🎙️ Interview<br/>Output))
-    G -.->|Sub‑600ms| H(🚀 User)
-    
-    classDef inputNode fill:#ff00ff,stroke:#cc00cc,stroke-width:2px,color:#ffffff;
-    classDef agentNode fill:#00e0ff,stroke:#00b3e0,stroke-width:2px,color:#000000;
-    classDef voiceNode fill:#00ff88,stroke:#00cc66,stroke-width:2px,color:#000000;
-    classDef outputNode fill:#00ff00,stroke:#00cc00,stroke-width:2px,color:#000000;
-    classDef userNode fill:#00ffff,stroke:#00cccc,stroke-width:2px,color:#000000;
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+PAGEWHISPER+PARSER...;%3E+FETCHING+GEMINI+2.5+PRO+EMBEDDINGS...;%3E+LANGCHAIN+AGENT+ORCHESTRATING+PIPELINE...;%3E+VAPI+WEBRTC+VOICE+ENGINE+ONLINE;%3E+SYSTEM+LATENCY%3A+584ms+|+STATUS%3A+READY" />
+</div>
 
-    class A inputNode
-    class B,C,D agentNode
-    class E,F voiceNode
-    class G outputNode
-    class H userNode
-```
+<div align="center">
+
+| **Core Pipeline** | **Technology Stack** | **Performance** |
+| :--- | :--- | :--- |
+| 📄 **Ingestion** | `PageWhisper` + `Gemini 2.5` | High-Precision |
+| 🧠 **Intelligence** | `LangChain` RAG Agents | Autonomous |
+| 🎙️ **Synthesis** | `Vapi` + `ElevenLabs` | Sub-600ms |
+| 🚀 **Deployment** | `AWS` + `Docker` | Production |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AGENTIC_RAG-00F2FF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/VOICE_AI-7000FF?style=for-the-badge&logo=vlc&logoColor=white" />
+  <img src="https://img.shields.io/badge/REAL_TIME-FF00D4?style=for-the-badge&logo=webgl&logoColor=white" />
+</p>
+
+---
 
 
 ## 🎮 3D Immersive Previews
@@ -71,22 +60,24 @@ graph TB
   <table border="0">
     <tr>
       <td align="center">
-        <strong>VertexFlow</strong><br />
+        <kbd><b>VertexFlow</b></kbd><br />
         <a href="https://vertex-flow-phi.vercel.app/">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=00FFFF&center=true&vCenter=true&width=200&height=150&lines=%E2%9D%96+3D+CORE;%E2%96%B3+VERTEX;%E2%97%A2+FLOW" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=00FFFF&center=true&vCenter=true&width=220&height=150&lines=%E2%9D%96+3D+CORE;%E2%96%B3+VERTEX;%E2%97%A2+FLOW;%E2%9C%A7+CINEMATIC" alt="VertexFlow" />
         </a><br />
-        <code>Cinematic Three.js</code>
+        <code>Three.js • GSAP</code>
       </td>
       <td align="center">
-        <strong>PageWhisper</strong><br />
-        <a href="https://page-whisper.vercel.app/">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=FF00FF&center=true&vCenter=true&width=200&height=150&lines=%E2%97%8E+AI+AGENT;%E2%9C%A7+RAG;%E2%97%8E+WHISPER" />
+        <kbd><b>RoleRadar</b></kbd><br />
+        <a href="https://roleradarz.streamlit.app/">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&color=FF00FF&center=true&vCenter=true&width=220&height=150&lines=%E2%97%8E+AI+RADAR;%E2%9C%A7+AGENTIC;%E2%97%8E+WHISPER;%E2%9A%A1+LOW+LATENCY" alt="RoleRadar" />
         </a><br />
-        <code>RAG Intelligence</code>
+        <code>LangChain • RAG</code>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 
 ## 🔥 Featured Projects Galaxy ✨
@@ -164,22 +155,34 @@ pie title Salony's Tech Radar 2026 ✨
 
 ## 💫 Support the Dev
 
-<p align="center">
-  <a href="upi://pay?pa=7361020515@upi&pn=Salony%20Ranjan&cu=INR">
+<div align="center">
+  <p>If you find my work helpful, consider fueling the next breakthrough! 🚀</p>
+
+  <a href="upi://pay?pa=salnyranjan-1@okhdfcbank&pn=Salony%20Ranjan&cu=INR">
     <img src="https://img.shields.io/badge/Donate_via_UPI-00F2FF?style=for-the-badge&logo=google-pay&logoColor=white" alt="Donate via UPI" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/salonyranjan">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Fueling+the+next+AI+breakthrough...;Your+support+keeps+the+servers+running!;Building+ZenithRAG+one+coffee+at+a+time." />
-</p>
+  <br />
+  <br />
 
+  <kbd>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=upi://pay?pa=salnyranjan-1@okhdfcbank%26pn=Salony%20Ranjan%26cu=INR" alt="UPI QR Code" />
+  </kbd>
+
+  <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Scan+to+support+my+projects;salnyranjan-1@okhdfcbank;Building+the+Future+of+AI" />
+</div>
+
+<br />
 
 <div align="center">
- <img src="https://api.visitorbadge.io/api/combined?user=salonyranjan&repo=salonyranjan&labelColor=%231a1a2e&countColor=%2300ffff&style=for-the-badge&label=NEURAL_VISITS" alt="Visitors" />
-  <br><br>
-  <span style="color: #00ffff; font-weight: bold;">Built with ❤️ from Earth | Salony Ranjan </span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ffff&height=2&width=1000&opacity=0.3" />
+   <br />
+  <img src="https://api.visitorbadge.io/api/combined?user=salonyranjan&repo=salonyranjan&labelColor=%231a1a2e&countColor=%2300ffff&style=for-the-badge&label=NEURAL_VISITS" alt="Visitors" />
+    <br /><br />
+ <code style="color: #00ffff; font-weight: bold;"> Built with ❤️ from Earth | Salony Ranjan | 25.5941° N, 85.1376° E </code>
+   <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=4000&color=7000FF&center=true&vCenter=true&width=400&lines=SYSTEM+STATUS%3A+FULLY+OPERATIONAL;BATCH+OF+2026+%40+NSEC;STAY+CURIOUS" />
 </div>
