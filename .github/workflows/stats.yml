@@ -2,38 +2,40 @@ name: Update GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually anytime
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows manual refresh via the Actions tab
 
 jobs:
-  update-stats:
+  publish:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate Stats Cards
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate Main Stats & Languages
+        uses: lowlighter/metrics@latest
         with:
-          card: stats
-          # Matches your 'Radical' theme and hides what you don't need
-          options: 'username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&bg_color=0a0a0a&hide=issues,contributors&count_private=true'
-          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: salonyranjan
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # Styling to match your Radical theme
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_details: percentage
+          
+          # Output configuration
+          filename: github-metrics.svg
+          optimize: css, xml, svg
 
-      - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: 'username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss'
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push Updates
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "chore: auto-update stats [skip ci]" || echo "No changes"
+          git add *.svg
+          git commit -m "chore: automated metrics update" || exit 0
           git push
