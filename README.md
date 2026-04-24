@@ -22,14 +22,14 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/salonyranjan">
-        <img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&bg_color=0a0a0a&hide=issues,contributors&count_private=true" alt="Salony's GitHub stats" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&bg_color=0a0a0a&hide=issues,contributors&count_private=true&cache_seconds=1800" alt="GitHub stats" height="175" />
       </a>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/salonyranjan">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=ff00ff&dates=ff00ff" alt="Salony's Streak" height="170" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=ff00ff&dates=ff00ff" alt="Streak Stats" height="175" />
       </a>
     </td>
   </tr>
@@ -37,14 +37,14 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/salonyranjan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss" alt="Top Langs" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss&cache_seconds=1800" alt="Top Langs" height="175" />
       </a>
     </td>
-    <td>
-       <a href="https://github.com/salonyranjan">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=ff00ff&point=e6e6fa&area=true&hide_title=true" alt="Activity Graph" height="165" />
+    <td align="center" width="50%">
+      <a href="https://github.com/salonyranjan">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=ff00ff&point=e6e6fa&area=true&hide_title=true" alt="Activity Graph" height="175" />
       </a>
     </td>
   </tr>
@@ -53,8 +53,6 @@
 <br/>
 
 </div>
-
----
 
 ## 🧬 Agentic RAG : System Intelligence
 
