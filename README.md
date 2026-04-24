@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+CSBS;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;BTECH+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+TECH;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;BTECH+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=35&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 
@@ -20,13 +20,41 @@
 
 <div align="center">
 
-[![salonyranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&bg_color=0a0a0a&hide=issues,contributors)](https://github.com/anuraghazra/github-readme-stats)
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/salonyranjan">
+        <img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&bg_color=0a0a0a&hide=issues,contributors&count_private=true" alt="Salony's GitHub stats" height="170" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/salonyranjan">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=ff00ff&dates=ff00ff" alt="Salony's Streak" height="170" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/salonyranjan">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss" alt="Top Langs" height="165" />
+      </a>
+    </td>
+    <td>
+       <a href="https://github.com/salonyranjan">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=ff00ff&point=e6e6fa&area=true&hide_title=true" alt="Activity Graph" height="165" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![salonyranjan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=ff00ff&dates=ff00ff)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br/>
 
 </div>
+
+---
 
 ## 🧬 Agentic RAG : System Intelligence
 
