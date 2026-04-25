@@ -1,8 +1,9 @@
 name: Update GitHub Metrics
+
 on:
   schedule:
     - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows manual refresh via the Actions tab
+  workflow_dispatch: # Allows manual refresh
 
 jobs:
   publish:
@@ -19,15 +20,19 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Styling
+          # PLUGIN: Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
           plugin_languages_details: percentage
           
-          # Output configuration
+          # STYLING: Fixes the white background and matches dark themes
+          config_padding: 0, 8%
+          config_twemoji: yes
+          # This makes the background transparent
+          plugin_pagespeed: no
+          
+          # OUTPUT: This handles the commit automatically and avoids your local error
           filename: github-metrics.svg
           optimize: css, xml, svg
-          
-          # Built-in Committer (Replaces your manual git steps)
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "chore: automated metrics update"
+          committer_message: "chore: update metrics [skip ci]"
