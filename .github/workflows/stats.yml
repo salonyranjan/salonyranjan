@@ -1,5 +1,4 @@
 name: Update GitHub Metrics
-
 on:
   schedule:
     - cron: "0 */6 * * *" # Runs every 6 hours
@@ -11,9 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
       - name: Generate Main Stats & Languages
         uses: lowlighter/metrics@latest
         with:
@@ -23,7 +19,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Styling to match your Radical theme
+          # Styling
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
           plugin_languages_details: percentage
@@ -31,11 +27,7 @@ jobs:
           # Output configuration
           filename: github-metrics.svg
           optimize: css, xml, svg
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.svg
-          git commit -m "chore: automated metrics update" || exit 0
-          git push
+          
+          # Built-in Committer (Replaces your manual git steps)
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore: automated metrics update"
