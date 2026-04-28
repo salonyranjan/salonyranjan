@@ -1,4 +1,5 @@
 <div align="center">
+<img src="salony_dp.png" width="200" style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 15px #00ffff;" />
 
 # <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Salony+Ranjan+%F0%9F%A7%A1+TECH;Agentic+RAG+%26+Autonomous+Agents;Full-Stack+3D+Developer+%F0%9F%8E%A8;BTECH+2026+%F0%9F%93%9A;WebGL+Shaders+%F0%9F%8E%AC" alt="Typing SVG" />
 
