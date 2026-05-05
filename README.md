@@ -59,26 +59,19 @@
 
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=e6e6fa&icon_color=7000FF&bg_color=0a0a0a&count_private=true&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" height="180" />
+    <!-- Left Column: Locally Generated Metrics (Stats + Languages) -->
+    <td align="center" width="50%" valign="top">
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=7000FF&fire=FF00D4&currStreakNum=00ffff&currStreakLabel=7000FF&sideNums=00ffff&sideLabels=FF00D4&dates=e6e6fa" alt="Streak Stats" height="180" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=e6e6fa&hide=html,css,scss&cache_seconds=1800&langs_count=8" alt="Top Languages" height="180" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=7000FF&point=FF00D4&area=true&area_color=7000FF&hide_title=true" alt="Activity Graph" height="180" />
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=7000FF&fire=FF00D4&currStreakNum=00ffff&currStreakLabel=7000FF&sideNums=00ffff&sideLabels=FF00D4&dates=e6e6fa" alt="Streak Stats" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=7000FF&point=FF00D4&area=true&area_color=7000FF&hide_title=true" alt="Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
 
 </div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              2. AGENTIC RAG SYSTEM                        -->
