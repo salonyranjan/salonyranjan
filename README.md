@@ -1,431 +1,553 @@
 <div align="center">
 
-<!-- Profile Image with Neon Glow Effect -->
-<a href="https://vertex-flow-phi.vercel.app/">
-  <img src="salony_dp.png" width="180" style="border-radius: 50%; border: 4px solid #00ffff; box-shadow: 0 0 30px #00ffff, 0 0 60px #7000FF;" alt="Salony Ranjan" />
-</a>
+<!-- ░░ HERO BANNER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=280&section=header&text=SALONY%20RANJAN&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=AI%20Systems%20%C2%B7%20Voice%20AI%20%C2%B7%203D%20Web%20%C2%B7%20Full-Stack&descSize=20&descAlignY=65&animation=fadeIn&stroke=6c63ff&strokeWidth=2" width="100%" />
+
+<!-- ░░ CONTACT LINKS ░░ -->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vertex-flow-phi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salonyranjan)
+
+<br/>
+
+<!-- ░░ STATUS PILLS ░░ -->
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20%E2%80%94%20NSEC%20Kolkata-CGPA%208.5-6c63ff?style=flat-square&labelColor=0f0c29" />
+&nbsp;
+<img src="https://img.shields.io/badge/Infosys%20Pragati-Cohort%208%20%E2%80%94%20Mar%202026-00d4aa?style=flat-square&labelColor=0f0c29" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Roles-00d4aa?style=flat-square&labelColor=0f0c29" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
+
+</div>
+
+<br/>
+
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 2 · ABOUT
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ◈ Who I Am
+
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=340&lines=Building+agentic+AI+pipelines...;Shipping+3D+WebGL+experiences...;Real-time+Voice+AI+%3C+600ms...;35%2B+live+projects+deployed...;Infosys+Pragati+Cohort+8+%E2%9C%93" alt="Typing" />
+
+I'm a final-year CS student who **ships things** — 35+ live projects spanning agentic RAG systems, real-time voice AI with sub-600ms latency, cinematic WebGL portfolios with custom GLSL shaders, and full-stack production apps deployed on AWS.
+
+I'm not collecting tutorials. I'm building systems that work.
+
+**Currently selected** for **Infosys Pragati Cohort 8** (Mar 2026), a nationally competitive program recognizing technical aptitude and engineering depth.
+
+Seeking **SDE internships** in AI/ML, full-stack, or creative frontend engineering.
+
+<br clear="right"/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 3 · EXPERIENCE
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ◈ Experience
+
+<table width="100%">
+<tr>
+<td width="4px" bgcolor="#6c63ff"></td>
+<td width="16px"></td>
+<td>
+
+**NIELIT Bihar, Patna — Technical Intern** &emsp; `Sep 2025 – Mar 2026`
+
+Production-grade technical project workflows within government IT infrastructure. Maintained strict operational protocols on live systems.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="4px" bgcolor="#00d4aa"></td>
+<td width="16px"></td>
+<td>
+
+**Edunet Foundation — Front End Web Development Intern** &emsp; `Aug 2025 – Oct 2025`
+
+Built and shipped responsive front-end interfaces; collaborated in an agile development workflow.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="4px" bgcolor="#ff6b6b"></td>
+<td width="16px"></td>
+<td>
+
+**Codespeedy Technology Pvt. Ltd. — Web Development Intern** &emsp; `Feb 2025 – May 2025`
+
+Full-stack web development; implemented features across client-facing products.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 4 · FEATURED PROJECTS
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ◈ Featured Projects
+
+> Ranked by technical depth. Every project is live.
+
+<br/>
+
+### 🤖 AI · Voice · RAG Systems
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h4>🎙️ SonicPrep AI &nbsp;<img src="https://img.shields.io/badge/FEATURED-6c63ff?style=flat-square" /></h4>
+
+Real-time AI voice interview coach. Ask a question → get RAG-grounded spoken feedback in **< 600ms**. Full agentic pipeline: speech capture → Gemini 2.5 → LangChain RAG → Vapi WebRTC → ElevenLabs synthesis.
+
+![Gemini](https://img.shields.io/badge/Gemini%202.5%20Pro-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi_WebRTC-00d4aa?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[🚀 Live Demo](https://sonic-prep.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/sonic-prep)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>📊 ZenithRAG &nbsp;<img src="https://img.shields.io/badge/AWS_PROD-ff9900?style=flat-square&logo=amazonaws&logoColor=white" /></h4>
+
+Production RAG system **live on AWS EC2**. Agentic document retrieval, hybrid vector search (FAISS + ChromaDB), and streaming responses. Self-hosted and fully operational.
+
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=flat-square)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[🚀 Live Demo](http://13.60.233.173:8080) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ZenithRAG)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h4>📄 PageWhisper &nbsp;<img src="https://img.shields.io/badge/MCP_Protocol-6c63ff?style=flat-square" /></h4>
+
+Upload any PDF → ask anything → get voice-powered answers. Multi-agent orchestration via MCP Protocol. No skimming required.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-6c63ff?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00d4aa?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Protocol-6c63ff?style=flat-square)
+
+[🚀 Live Demo](https://page-whisper.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/PageWhisper)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🤖 AI Career Coach</h4>
+
+End-to-end LLM-driven career coaching app. Resume analysis, job match scoring, personalized skill roadmap generation — all powered by RAG over career domain knowledge.
+
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-6c63ff?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[📁 Source](https://github.com/salonyranjan/An-AI-powered-Career-Coach-Assistance-Application)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h4>🩺 MediQuery AI</h4>
+
+Medical Q&A with RAG-grounded clinical answers. Domain-specific language understanding for symptom and medication queries.
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=flat-square)
+
+[🚀 Live Demo](https://mediquery-ai.streamlit.app/) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/MediQuery.ai)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🎯 SkillBridge AI</h4>
+
+GenAI career coaching platform — personalized guidance, skill gap analysis, and curated learning roadmaps via LLM orchestration.
+
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+
+[🚀 Live Demo](https://skill-bridge-ai-orpin.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/SkillBridge-AI)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌐 3D · WebGL · Creative Frontend
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h4>🌐 VertexFlow &nbsp;<img src="https://img.shields.io/badge/FEATURED-6c63ff?style=flat-square" /></h4>
+
+Cinematic 3D portfolio — custom GLSL vertex & fragment shaders, GPU particle systems, GSAP scroll choreography. **Every visual effect written from scratch. Zero templates.**
+
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square)
+![GLSL](https://img.shields.io/badge/GLSL_Shaders-6c63ff?style=flat-square)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[🚀 Live 3D Demo](https://vertex-flow-phi.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/VertexFlow)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🍹 Mocktail</h4>
+
+High-end mixology showcase — scroll-triggered GSAP cinematics, glassmorphism UI, fluid parallax, and staggered reveal animations.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+[🚀 Live Demo](https://mocktail-seven.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/Mocktail)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h4>🎮 GTA-VI Fan Tribute</h4>
+
+Frame-accurate recreation of the GTA VI announcement page — advanced parallax layers, cinematic scroll reveals, frame-perfect animation timing.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+[🚀 Live Demo](https://gta-vi-woad.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/GTA-VI)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🎞️ Anime Grid</h4>
+
+Immersive media grid with complex layout animations, GPU-accelerated transitions, and lazy-loading for 60fps scroll performance.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-264de4?style=flat-square)
+
+[🚀 Live Demo](https://anime-grid-nine.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/anime-grid)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📦 Full-Stack · Data · Systems
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h4>💰 BitFlow</h4>
+
+Crypto intelligence terminal — real-time WebSocket market telemetry, zero-latency price feeds, and precision trading interface.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![WebSockets](https://img.shields.io/badge/WebSockets-00d4aa?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+[🚀 Live Demo](https://bit-flow-two.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/BitFlow)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🏥 CT Patient Data Dashboard</h4>
+
+Medical imaging analytics — CT scan data visualization with interactive clinical filters, KPI tracking, and exportable reports.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Recharts](https://img.shields.io/badge/Recharts-6c63ff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+[🚀 Live Demo](https://ct-patient-data-dashboard.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ct-patient-data-dashboard)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h4>📚 OpenShelf E2E</h4>
+
+End-to-end digital library system — AI-powered search, catalog management, personalized recommendations.
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[🚀 Live Demo](https://openshelf-e2e.streamlit.app/) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/OpenShelf-E2E)
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🛒 QuickCart</h4>
+
+Full-stack e-commerce platform — product catalog, cart state, JWT auth, and order management. End-to-end.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+
+[🚀 Live Demo](https://quick-cart-blush-alpha.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/QuickCart)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 5 · TECH STACK
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ◈ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=py" width="40"/><br/><sub>Python</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub>C++</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><sub>TypeScript</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><sub>Next.js</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=threejs" width="40"/><br/><sub>Three.js</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub>Tailwind</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><sub>FastAPI</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br/><sub>PyTorch</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><sub>AWS</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><sub>Docker</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub>PostgreSQL</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- AI-specific tools not in skillicons -->
+**Specialized Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=for-the-badge)
+![Gemini 2.5](https://img.shields.io/badge/Gemini%202.5%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi%20WebRTC-6c63ff?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL_Shaders-990000?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Protocol-6c63ff?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 6 · GITHUB STATS
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ◈ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9&ring_color=6c63ff" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideNums=00d4aa&sideLabels=c9d1d9" width="48%" />
 
 <br/><br/>
 
-<!-- Neon Rainbow Name — 4 stacked colours cycling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=44&pause=2500&color=FF00D4&center=true&vCenter=true&width=700&height=80&lines=✦+SALONY+RANJAN+✦" alt="Neon Pink" />
-
-<!-- Animated Role Subtitle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=850&height=55&lines=🤖+Agentic+RAG+%26+Autonomous+AI+Systems;🎨+Full-Stack+3D+Developer;🎙️+Voice+AI+%7C+Vapi+%2B+ElevenLabs+%2B+Gemini;🌐+WebGL+%7C+Three.js+%7C+GSAP+Cinematics;📚+B.Tech+2026+%40+NSEC" alt="Typing SVG" />
-
-<br/>
-
-<!-- Status Badges Row -->
-<img src="https://img.shields.io/badge/Status-Building%20the%20Future-00ffff?style=for-the-badge&logo=statuspage&logoColor=black" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonyranjan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&layout=compact&langs_count=8" width="48%" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-7000FF?style=for-the-badge&logo=briefcase&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Batch-2026%20%40%20NSEC-FF00D4?style=for-the-badge&logo=mortarboard&logoColor=white" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=salonyranjan&label=NEURAL+VISITS&color=00ffff&style=for-the-badge" alt="Profile Views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=6c63ff&line=00d4aa&point=ff6b6b&area=true&area_color=6c63ff" width="48%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TABLE OF CONTENTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 7 · CURRENTLY BUILDING
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📋 Table of Contents
+## ◈ Currently Building
 
-1. [🌌 Live Analytics](#1--live-analytics)
-2. [🧬 Agentic RAG System Intelligence](#2--agentic-rag--system-intelligence)
-3. [🛠️ Tech Arsenal](#3-%EF%B8%8F-tech-arsenal)
-4. [🎮 3D Immersive Previews](#4--3d-immersive-previews)
-5. [🔥 Featured Projects Galaxy](#5--featured-projects-galaxy)
-6. [📊 Tech Radar](#6--tech-radar)
-7. [🌱 Currently Mastering](#7--currently-mastering)
-8. [🐍 Neon Contribution Snake](#8--neon-contribution-snake)
-9. [🏆 GitHub Trophies](#9--github-trophies)
-10. [🎵 Currently Jamming](#10--currently-jamming)
-11. [🤝 Let's Connect](#11--lets-connect)
-12. [💫 Support the Dev](#12--support-the-dev)
+```python
+class SalonyRanjan:
+    def __init__(self):
+        self.role      = "AI Systems Engineer + Full-Stack Developer"
+        self.education = "B.Tech CSE · NSEC Kolkata · 2026 · CGPA 8.02"
+        self.highlight = "Infosys Pragati Cohort 8 (Mar 2026)"
 
----
+    @property
+    def currently_shipping(self):
+        return {
+            "PageWhisper v2"  : "Multi-agent MCP Protocol orchestration",
+            "SonicPrep AI"    : "Multi-turn voice memory + latency optimization",
+            "VertexFlow v2"   : "Advanced GLSL post-processing pipeline",
+            "Research"        : "LoRA fine-tuning on domain-specific datasets",
+        }
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   1. LIVE ANALYTICS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+    @property
+    def seeking(self):
+        return "SDE Internship — AI/ML · Full-Stack · Creative Frontend"
 
-## 1. 🌌 Live Analytics
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <!-- Left Column: Locally Generated Metrics (Stats + Languages) -->
-    <td align="center" width="50%" valign="top">
-      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ffff&ring=7000FF&fire=FF00D4&currStreakNum=00ffff&currStreakLabel=7000FF&sideNums=00ffff&sideLabels=FF00D4&dates=e6e6fa" alt="Streak Stats" width="100%" />
-      <br /><br />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=radical&bg_color=0a0a0a&hide_border=true&color=00ffff&line=7000FF&point=FF00D4&area=true&area_color=7000FF&hide_title=true" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              2. AGENTIC RAG SYSTEM                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 2. 🧬 Agentic RAG · System Intelligence
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=400&color=00FF88&center=true&vCenter=true&width=750&height=50&lines=%3E_+INITIALIZING+PAGEWHISPER+PARSER...+✓;%3E_+FETCHING+GEMINI+2.5+PRO+EMBEDDINGS...+✓;%3E_+LANGCHAIN+AGENT+ORCHESTRATING+PIPELINE...+✓;%3E_+VAPI+WEBRTC+VOICE+ENGINE+ONLINE...+✓;%3E_+SYSTEM+LATENCY%3A+584ms+|+STATUS%3A+FULLY+OPERATIONAL+⚡" alt="Terminal Animation" />
-
-<br/>
-
-| ⚙️ **Pipeline Layer** | 🔬 **Technology Stack** | 📈 **Performance** | 🎯 **Capability** |
-| :--- | :--- | :---: | :--- |
-| 📄 **Document Ingestion** | `PageWhisper` + `Gemini 2.5 Pro` | High-Precision | Multi-format PDF/Web parsing |
-| 🧠 **Reasoning Engine** | `LangChain` RAG Agents + `MCP Protocol` | Autonomous | Multi-step chain-of-thought |
-| 🎙️ **Voice Synthesis** | `Vapi` + `ElevenLabs` WebRTC | < 600ms latency | Real-time voice conversations |
-| 🔍 **Semantic Search** | `FAISS` + `ChromaDB` Vector Stores | Sub-50ms recall | Context-aware retrieval |
-| 🚀 **Deployment** | `AWS` + `Docker` + `Vercel` | 99.9% uptime | Edge-optimized globally |
-
-<br/>
-
-<img src="https://img.shields.io/badge/AGENTIC_RAG-ONLINE-00F2FF?style=for-the-badge&logo=openai&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/VOICE_AI-ACTIVE-7000FF?style=for-the-badge&logo=amazonalexa&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/REAL_TIME-< 600ms-FF00D4?style=for-the-badge&logo=lightning&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/MCP_PROTOCOL-ENABLED-00FF88?style=for-the-badge&logo=protocol&logoColor=black" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   3. TECH ARSENAL                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 3. 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&color=7000FF&center=true&vCenter=true&width=500&height=40&lines=⚡+CORE+TECHNOLOGIES+2026" />
-
-### 🤖 AI · LLMs · Agentic Systems
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00FF88?style=for-the-badge&logo=chainlink&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vapi-00F2FF?style=for-the-badge&logo=webrtc&logoColor=black" />
-  <img src="https://img.shields.io/badge/ElevenLabs-7000FF?style=for-the-badge&logo=audio&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
-
-### ⚛️ Frontend · 3D · Animation
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-BB4B96?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### ☁️ Backend · Cloud · DevOps
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- Skill Icons Row -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,react,nextjs,threejs,fastapi,aws,docker,ts,tailwind,git,postgres&perline=12" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                4. 3D IMMERSIVE PREVIEWS                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 4. 🎮 3D Immersive Previews
-
-<div align="center">
-
-<table border="0" cellspacing="10" cellpadding="15">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://vertex-flow-phi.vercel.app/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&color=00FFFF&center=true&vCenter=true&width=280&height=160&lines=◈+VERTEX+FLOW;▲+3D+CINEMATIC;◈+THREE.JS;✧+WEBGL+SHADERS;◈+GSAP+MOTION" alt="VertexFlow" />
-      </a>
-      <br/>
-      <kbd><strong>⬡ VertexFlow 3D Portfolio</strong></kbd>
-      <br/><br/>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square" />
-      </p>
-      <a href="https://vertex-flow-phi.vercel.app/">
-        <img src="https://img.shields.io/badge/🚀_Live_3D_Demo-00FFFF?style=for-the-badge&logoColor=black" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://roleradarz.streamlit.app/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&color=FF00FF&center=true&vCenter=true&width=280&height=160&lines=◎+ROLE+RADAR;✧+AI+AGENTIC;◎+WHISPER+ASR;⚡+RAG+ENGINE;◎+LOW+LATENCY" alt="RoleRadar" />
-      </a>
-      <br/>
-      <kbd><strong>⬡ RoleRadar · AI Interview Coach</strong></kbd>
-      <br/><br/>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-00FF88?style=flat-square&logo=chainlink&logoColor=black" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat-square" />
-      </p>
-      <a href="https://roleradarz.streamlit.app/">
-        <img src="https://img.shields.io/badge/🤖_Live_AI_Demo-FF00FF?style=for-the-badge&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               5. FEATURED PROJECTS GALAXY                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 5. 🔥 Featured Projects Galaxy ✨
-
-<div align="center">
-
-| 🚀 | **Project** | **Description** | **Tech Stack** | **Status** | **Links** |
-|:---:|:---|:---|:---|:---:|:---|
-| 🎙️ | **SonicPrep AI** | AI voice interview coach with real-time RAG feedback and sub-600ms response | `Gemini 2.5` `Vapi` `LangChain` `RAG` | 🟢 Live | [![Demo](https://img.shields.io/badge/Demo-00ffff?style=flat-square&logo=vercel&logoColor=black)](https://sonic-prep.vercel.app) [![Repo](https://img.shields.io/badge/Repo-ff00ff?style=flat-square&logo=github&logoColor=black)](https://github.com/salonyranjan/sonic-prep) |
-| 🎮 | **VertexFlow** | Cinematic 3D portfolio with WebGL shaders, particle systems & GSAP scroll | `Three.js` `GSAP` `WebGL` `GLSL` | 🟢 Live | [![3D Demo](https://img.shields.io/badge/3D_Demo-00ff88?style=flat-square&logo=three.js&logoColor=black)](https://vertex-flow-phi.vercel.app) |
-| 📄 | **PageWhisper** | Agentic document intelligence — upload any PDF, get voice-powered Q&A | `Next.js` `ElevenLabs` `RAG` `FAISS` | 🆕 SaaS | [![Repo](https://img.shields.io/badge/Repo-ff00ff?style=flat-square&logo=github&logoColor=black)](https://github.com/salonyranjan/PageWhisper) |
-| 🏠 | **Z-Axis Cloud** | 3D cloud file manager with Puter.js and immersive spatial UI | `Puter.js` `Three.js` `3D Render` | 🏗️ Beta | [![Repo](https://img.shields.io/badge/Repo-00ffff?style=flat-square&logo=github&logoColor=black)](https://github.com/salonyranjan/Z-Axis-Cloud) |
-| 🎯 | **RoleRadar** | AI-powered career navigator with real-time job matching and RAG insights | `LangChain` `Streamlit` `Whisper` | 🟢 Live | [![Demo](https://img.shields.io/badge/Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://roleradarz.streamlit.app) |
-| 🍹 | **Mocktail** | High-end mixology showcase with GSAP cinematic animations & glassmorphism | `React` `GSAP` `Tailwind` `Vite` | 🟢 Live | [![Demo](https://img.shields.io/badge/Demo-10b981?style=flat-square&logo=vercel&logoColor=black)](https://mocktail-seven.vercel.app) |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    6. TECH RADAR                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 6. 📊 Tech Radar
-
-<div align="center">
-
-```mermaid
-pie title Salony's Tech Radar 2026 ✨
-    "Python · PyTorch · AI" : 95
-    "React · Next.js · Frontend" : 90
-    "LangChain · RAG · Agents" : 92
-    "Three.js · WebGL · GLSL" : 85
-    "AWS · Docker · DevOps" : 88
-    "GSAP · Animations · Motion" : 87
-    "FastAPI · Backend · APIs" : 84
-    "Voice AI · Vapi · ElevenLabs" : 86
+    def contact(self):
+        return {
+            "email"    : "salonyranjan@gmail.com",
+            "linkedin" : "linkedin.com/in/salony-ranjan-b63200280",
+            "location" : "Kolkata, West Bengal, India · IST (UTC+5:30)",
+        }
 ```
 
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 7. CURRENTLY MASTERING                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 8 · CERTIFICATIONS
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 7. 🌱 Currently Mastering · *The Agentic Era*
+## ◈ Certifications & Achievements
 
 <div align="center">
 
-| 🔮 **Domain** | 📖 **Focus** | ⚡ **Project** |
-|:---:|:---|:---|
-| 🤖 **Agentic Workflows** | Multi-agent RAG + MCP Protocol orchestration | PageWhisper v2 |
-| 🎨 **WebGL Shaders** | GLSL vertex & fragment shader cinematics | VertexFlow v2 |
-| 🗣️ **Voice AI** | Sub-600ms Gemini + Vapi WebRTC pipelines | SonicPrep AI |
-| ☁️ **Cloud Native** | AWS Lambda + Docker + Vercel Edge deployments | Z-Axis Cloud |
-| 🧠 **LLM Fine-Tuning** | LoRA + PEFT on domain-specific datasets | Internal R&D |
-| 🔐 **AI Safety** | Guardrails, prompt injection defense, red-teaming | Research |
+| Credential | Issuer | Domain |
+|:---|:---:|:---:|
+| 🎓 Machine Learning | DeepLearning.AI | AI / ML |
+| 🎓 Google Data Analytics | Coursera | Data |
+| 🎓 Generative AI with AWS | Udacity | GenAI + Cloud |
+| 🎓 Tech Job Simulation | Forage | Engineering |
+| 🏆 Infosys Pragati Cohort 8 | Infosys | Competitive Selection |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               8. NEON CONTRIBUTION SNAKE                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 9 · CONTRIBUTION SNAKE
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 8. 🐍 Neon Contribution Snake
+## ◈ Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake.svg" />
-  <img alt="Neon Contribution Snake" src="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  9. GITHUB TROPHIES                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     SECTION 10 · CONNECT
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 9. 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=salonyranjan&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  10. CURRENTLY JAMMING                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 10. 🎵 Currently Jamming
+## ◈ Let's Build Something
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎵_Synthwave-00F2FF?style=for-the-badge&logo=musicbrainz&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/🎧_Lo--Fi-7000FF?style=for-the-badge&logo=spotify&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_Techno-FF00D4?style=for-the-badge&logo=tidal&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Open+to+SDE+Internships;AI+%2F+ML+%C2%B7+Full-Stack+%C2%B7+Frontend;Replies+within+24+hours+%E2%9C%93" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&height=50&lines=🎵+Currently+Vibing+to...;▶️+Blinding+Lights+–+The+Weeknd;▶️+One+More+Time+–+Daft+Punk;▶️+Midnight+City+–+M83;▶️+We+Are+Your+Friends+–+Justice" alt="Music" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   11. LET'S CONNECT                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 11. 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&color=7000FF&center=true&vCenter=true&width=600&height=50&lines=Open+to+SDE+Internships+%26+Collabs;Building+the+Agentic+Future+Together;Let's+create+something+epic+🚀" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/salony-ranjan-b63200280">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:salonyranjan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://vertex-flow-phi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=react&logoColor=black" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/salonyranjan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/salonyranjan">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<br/><br/>
-
-```
-💬  Open to: SDE Internships · AI Research Collabs · Open Source Projects · Freelance 3D Builds
-📍  Location: Patna, Bihar, India  |  25.5941° N, 85.1376° E
-⏰  Timezone: IST (UTC +5:30)  |  Usually replies within 24 hours
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  12. SUPPORT THE DEV                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 12. 💫 Support the Dev
-
-<div align="center">
-
-<p>If my work sparked an idea, saved you hours, or just looked cool — consider giving a ⭐ and following! 🚀</p>
-
-<a href="https://github.com/salonyranjan?tab=repositories">
-  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-FF00D4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/salonyranjan">
-  <img src="https://img.shields.io/badge/👤_Follow_on_GitHub-7000FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=15&duration=4000&pause=1000&color=7000FF&center=true&vCenter=true&width=550&lines=Follow+%40salonyranjan+for+AI+drops;New+projects+shipping+every+sprint;The+future+is+Agentic+—+let's+build+it" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:FF00D4,100:00ffff&height=120&section=footer&animation=fadeIn" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
+[![Gmail](https://img.shields.io/badge/Gmail-salonyranjan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vertex-flow-phi.vercel.app/)
 
 <br/>
 
-<img src="https://api.visitorbadge.io/api/combined?user=salonyranjan&repo=salonyranjan&labelColor=%230a0a0a&countColor=%2300ffff&style=for-the-badge&label=NEURAL_VISITS" alt="Neural Visits" />
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_SYSTEM_STATUS-FULLY_OPERATIONAL-00FF88?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/🎓_BATCH-2026_%40_NSEC-7000FF?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=13&duration=5000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=SYSTEM+STATUS%3A+FULLY+OPERATIONAL+⚡;BATCH+OF+2026+%40+NSEC+🎓;STAY+CURIOUS+·+STAY+HUNGRY+·+BUILD+EPIC" />
-
-<br/>
-
-**Built with ❤️ from Earth &nbsp;|&nbsp; Salony Ranjan &nbsp;|&nbsp; `25.5941° N, 85.1376° E`**
+📍 Kolkata, West Bengal, India &nbsp;·&nbsp; ⏰ IST (UTC+5:30) &nbsp;·&nbsp; ✅ Replies within 24h
 
 </div>
 
+---
+
+<!-- ░░ FOOTER BANNER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c63ff&height=100&section=footer" width="100%" />
+
+<div align="center">
+<sub><b>35+ projects shipped &nbsp;·&nbsp; 3 internships &nbsp;·&nbsp; Infosys Pragati Cohort 8 &nbsp;·&nbsp; CGPA 8.02 &nbsp;·&nbsp; Built with precision from Kolkata 🇮🇳</b></sub>
+</div>
