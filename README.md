@@ -47,59 +47,6 @@ Seeking **SDE internships** in AI/ML, full-stack, or creative frontend engineeri
 
 <br clear="right"/>
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 3 · EXPERIENCE
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## ◈ Experience
-
-<table width="100%">
-<tr>
-<td width="4px" bgcolor="#6c63ff"></td>
-<td width="16px"></td>
-<td>
-
-**NIELIT Bihar, Patna — Technical Intern** &emsp; `Sep 2025 – Mar 2026`
-
-Production-grade technical project workflows within government IT infrastructure. Maintained strict operational protocols on live systems.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="4px" bgcolor="#00d4aa"></td>
-<td width="16px"></td>
-<td>
-
-**Edunet Foundation — Front End Web Development Intern** &emsp; `Aug 2025 – Oct 2025`
-
-Built and shipped responsive front-end interfaces; collaborated in an agile development workflow.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="4px" bgcolor="#ff6b6b"></td>
-<td width="16px"></td>
-<td>
-
-**Codespeedy Technology Pvt. Ltd. — Web Development Intern** &emsp; `Feb 2025 – May 2025`
-
-Full-stack web development; implemented features across client-facing products.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -547,7 +494,4 @@ class SalonyRanjan:
 
 <!-- ░░ FOOTER BANNER ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c63ff&height=100&section=footer" width="100%" />
-
-<div align="center">
-<sub><b>35+ projects shipped &nbsp;·&nbsp; 3 internships &nbsp;·&nbsp; Infosys Pragati Cohort 8 &nbsp;·&nbsp; CGPA 8.02 &nbsp;·&nbsp; Built with precision from Kolkata 🇮🇳</b></sub>
 </div>
