@@ -37,7 +37,10 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=340&lines=Building+agentic+AI+pipelines...;Shipping+3D+WebGL+experiences...;Real-time+Voice+AI+%3C+600ms...;35%2B+live+projects+deployed...;Infosys+Pragati+Cohort+8+%E2%9C%93" alt="Typing" />
 
-I'm a final-year CS student who **ships things** — 35+ live projects spanning agentic RAG systems, real-time voice AI with sub-600ms latency, cinematic WebGL portfolios with custom GLSL shaders, and full-stack production apps deployed on AWS.
+Hi, I’m Salony Ranjan.
+
+I build AI systems, full-stack apps, and cinematic web experiences that ship live.
+Currently working on agentic RAG, real-time voice AI, and creative frontend systems.
 
 I'm not collecting tutorials. I'm building systems that work.
 
