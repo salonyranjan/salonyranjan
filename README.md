@@ -18,7 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Infosys%20Pragati-Cohort%208%20%E2%80%94%20Mar%202026-00d4aa?style=flat-square&labelColor=0f0c29" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Roles-00d4aa?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Internships-00d4aa?style=flat-square&labelColor=0f0c29" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
 
@@ -26,36 +26,25 @@
 
 <br/>
 
+---
+
+<!-- ░░ SECTION 2 · ABOUT ░░ -->
+
+◈ Who I Am
+----------
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=340&lines=Building+agentic+AI+systems...;Shipping+real-time+voice+AI+experiences...;Cinematic+3D+WebGL+interfaces...;Production-ready+apps%2C+not+just+tutorials.)
+
+Hi, I’m **Salony Ranjan** — I build AI systems, full‑stack apps, and cinematic web experiences that ship live.
+
+- Working hands‑on with **agentic RAG**, **real‑time voice AI**, and **3D/WebGL frontends**.  
+- I care more about latency, reliability, and UX than just “getting a demo to run.”
+
+I’m currently seeking **SDE internships** in **AI/ML**, **full‑stack**, or **creative frontend engineering** where I can prototype quickly, iterate with feedback, and deploy user‑facing AI products.
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 2 · ABOUT
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## ◈ Who I Am
-
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=340&lines=Building+agentic+AI+pipelines...;Shipping+3D+WebGL+experiences...;Real-time+Voice+AI+%3C+600ms...;35%2B+live+projects+deployed...;Infosys+Pragati+Cohort+8+%E2%9C%93" alt="Typing" />
-
-Hi, I’m Salony Ranjan.
-
-I build AI systems, full-stack apps, and cinematic web experiences that ship live.
-Currently working on agentic RAG, real-time voice AI, and creative frontend systems.
-
-I'm not collecting tutorials. I'm building systems that work.
-
-**Currently selected** for **Infosys Pragati Cohort 8** (Mar 2026), a nationally competitive program recognizing technical aptitude and engineering depth.
-
-Seeking **SDE internships** in AI/ML, full-stack, or creative frontend engineering.
-
-<br clear="right"/>
-
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 4 · FEATURED PROJECTS
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 4 · FEATURED PROJECTS ░░ -->
 
 ## ◈ Featured Projects
 
@@ -71,7 +60,7 @@ Seeking **SDE internships** in AI/ML, full-stack, or creative frontend engineeri
 
 <h4>🎙️ SonicPrep AI &nbsp;<img src="https://img.shields.io/badge/FEATURED-6c63ff?style=flat-square" /></h4>
 
-Real-time AI voice interview coach. Ask a question → get RAG-grounded spoken feedback in **< 600ms**. Full agentic pipeline: speech capture → Gemini 2.5 → LangChain RAG → Vapi WebRTC → ElevenLabs synthesis.
+Real-time AI voice interview coach. Ask a question → get RAG-grounded spoken feedback in **&lt; 600ms** end‑to‑end. Agentic pipeline: speech capture → Gemini 2.5 → LangChain RAG → Vapi WebRTC → ElevenLabs TTS.
 
 ![Gemini](https://img.shields.io/badge/Gemini%202.5%20Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi_WebRTC-00d4aa?style=flat-square)
@@ -87,7 +76,7 @@ Real-time AI voice interview coach. Ask a question → get RAG-grounded spoken f
 
 <h4>📊 ZenithRAG &nbsp;<img src="https://img.shields.io/badge/AWS_PROD-ff9900?style=flat-square&logo=amazonaws&logoColor=white" /></h4>
 
-Production RAG system **live on AWS EC2**. Agentic document retrieval, hybrid vector search (FAISS + ChromaDB), and streaming responses. Self-hosted and fully operational.
+Production RAG system **deployed on AWS EC2**. Agentic document retrieval, hybrid vector search (FAISS + ChromaDB), and streaming responses over a FastAPI backend. Self-hosted with persistent storage and health-checked services.
 
 ![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-ff6b6b?style=flat-square)
@@ -104,7 +93,7 @@ Production RAG system **live on AWS EC2**. Agentic document retrieval, hybrid ve
 
 <h4>📄 PageWhisper &nbsp;<img src="https://img.shields.io/badge/MCP_Protocol-6c63ff?style=flat-square" /></h4>
 
-Upload any PDF → ask anything → get voice-powered answers. Multi-agent orchestration via MCP Protocol. No skimming required.
+Upload any PDF → ask anything → get voice-powered answers. Multi-agent orchestration via MCP Protocol with retrieval over ChromaDB + FAISS and real-time ElevenLabs speech.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-6c63ff?style=flat-square)
@@ -119,7 +108,7 @@ Upload any PDF → ask anything → get voice-powered answers. Multi-agent orche
 
 <h4>🤖 AI Career Coach</h4>
 
-End-to-end LLM-driven career coaching app. Resume analysis, job match scoring, personalized skill roadmap generation — all powered by RAG over career domain knowledge.
+LLM-driven career coaching app. Parses resumes + job descriptions, scores match, and generates personalized skill roadmaps using RAG over curated career resources.
 
 ![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
@@ -136,7 +125,7 @@ End-to-end LLM-driven career coaching app. Resume analysis, job match scoring, p
 
 <h4>🩺 MediQuery AI</h4>
 
-Medical Q&A with RAG-grounded clinical answers. Domain-specific language understanding for symptom and medication queries.
+Medical Q&A with RAG-grounded clinical answers. Domain-specific language understanding for symptom and medication queries, built with Streamlit and LangChain.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
@@ -173,7 +162,7 @@ GenAI career coaching platform — personalized guidance, skill gap analysis, an
 
 <h4>🌐 VertexFlow &nbsp;<img src="https://img.shields.io/badge/FEATURED-6c63ff?style=flat-square" /></h4>
 
-Cinematic 3D portfolio — custom GLSL vertex & fragment shaders, GPU particle systems, GSAP scroll choreography. **Every visual effect written from scratch. Zero templates.**
+Cinematic 3D portfolio — custom GLSL vertex & fragment shaders, GPU particle systems, and GSAP-driven scroll choreography. Built from scratch with Three.js + WebGL, no UI kits or animation templates.
 
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square)
@@ -204,7 +193,7 @@ High-end mixology showcase — scroll-triggered GSAP cinematics, glassmorphism U
 
 <h4>🎮 GTA-VI Fan Tribute</h4>
 
-Frame-accurate recreation of the GTA VI announcement page — advanced parallax layers, cinematic scroll reveals, frame-perfect animation timing.
+Frame-synchronized recreation of the GTA VI announcement page — layered parallax, cinematic scroll reveals, and animation timing tuned to the original trailer.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
@@ -239,7 +228,7 @@ Immersive media grid with complex layout animations, GPU-accelerated transitions
 
 <h4>💰 BitFlow</h4>
 
-Crypto intelligence terminal — real-time WebSocket market telemetry, zero-latency price feeds, and precision trading interface.
+Crypto intelligence terminal — real-time WebSocket market telemetry, ultra-low-latency price feeds, and a precision trading interface.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![WebSockets](https://img.shields.io/badge/WebSockets-00d4aa?style=flat-square)
@@ -269,7 +258,7 @@ Medical imaging analytics — CT scan data visualization with interactive clinic
 
 <h4>📚 OpenShelf E2E</h4>
 
-End-to-end digital library system — AI-powered search, catalog management, personalized recommendations.
+End-to-end digital library system — AI-powered search, catalog management, and personalized recommendations.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
@@ -298,9 +287,7 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 5 · TECH STACK
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 5 · TECH STACK ░░ -->
 
 ## ◈ Tech Stack
 
@@ -357,7 +344,6 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 
 <br/>
 
-<!-- AI-specific tools not in skillicons -->
 **Specialized Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=for-the-badge)
@@ -375,9 +361,7 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 6 · GITHUB STATS
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 6 · GITHUB STATS ░░ -->
 
 ## ◈ GitHub Activity
 
@@ -397,26 +381,24 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 7 · CURRENTLY BUILDING
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 7 · CURRENTLY BUILDING ░░ -->
 
 ## ◈ Currently Building
 
 ```python
 class SalonyRanjan:
     def __init__(self):
-        self.role      = "AI Systems Engineer + Full-Stack Developer"
-        self.education = "B.Tech CSE · NSEC Kolkata · 2026 · CGPA 8.02"
+        self.role      = "AI Systems + Full-Stack Developer"
+        self.education = "B.Tech CSE · NSEC Kolkata · 2026 · CGPA 8.5"
         self.highlight = "Infosys Pragati Cohort 8 (Mar 2026)"
 
     @property
     def currently_shipping(self):
         return {
-            "PageWhisper v2"  : "Multi-agent MCP Protocol orchestration",
-            "SonicPrep AI"    : "Multi-turn voice memory + latency optimization",
-            "VertexFlow v2"   : "Advanced GLSL post-processing pipeline",
-            "Research"        : "LoRA fine-tuning on domain-specific datasets",
+            "PageWhisper v2": "Multi-agent MCP Protocol orchestration",
+            "SonicPrep AI"  : "Multi-turn voice memory + latency optimization",
+            "VertexFlow v2" : "Advanced GLSL post-processing pipeline",
+            "Research"      : "LoRA fine-tuning on domain-specific datasets",
         }
 
     @property
@@ -425,17 +407,15 @@ class SalonyRanjan:
 
     def contact(self):
         return {
-            "email"    : "salonyranjan@gmail.com",
-            "linkedin" : "linkedin.com/in/salony-ranjan-b63200280",
-            "location" : "Kolkata, West Bengal, India · IST (UTC+5:30)",
+            "email"   : "salonyranjan@gmail.com",
+            "linkedin": "linkedin.com/in/salony-ranjan-b63200280",
+            "location": "Kolkata, West Bengal, India · IST (UTC+5:30)",
         }
 ```
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 8 · CERTIFICATIONS
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 8 · CERTIFICATIONS ░░ -->
 
 ## ◈ Certifications & Achievements
 
@@ -453,9 +433,7 @@ class SalonyRanjan:
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 9 · CONTRIBUTION SNAKE
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 9 · CONTRIBUTION SNAKE ░░ -->
 
 ## ◈ Contribution Activity
 
@@ -471,9 +449,7 @@ class SalonyRanjan:
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     SECTION 10 · CONNECT
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░ SECTION 10 · CONNECT ░░ -->
 
 ## ◈ Let's Build Something
 
@@ -497,4 +473,3 @@ class SalonyRanjan:
 
 <!-- ░░ FOOTER BANNER ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c63ff&height=100&section=footer" width="100%" />
-</div>
