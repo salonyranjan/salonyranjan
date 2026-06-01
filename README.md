@@ -14,10 +14,6 @@
 <br/>
 
 <!-- ░░ STATUS PILLS ░░ -->
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20%E2%80%94%20NSEC%20Kolkata-CGPA%208.5-6c63ff?style=flat-square&labelColor=0f0c29" />
-&nbsp;
-<img src="https://img.shields.io/badge/Infosys%20Pragati-Cohort%208%20%E2%80%94%20Mar%202026-00d4aa?style=flat-square&labelColor=0f0c29" />
-&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Internships-00d4aa?style=flat-square&labelColor=0f0c29" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
