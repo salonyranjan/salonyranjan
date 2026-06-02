@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ░░ HERO BANNER ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=280&section=header&text=SALONY%20RANJAN&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=AI%20Systems%20%C2%B7%20Voice%20AI%20%C2%B7%203D%20Web%20%C2%B7%20Full-Stack&descSize=20&descAlignY=65&animation=fadeIn&stroke=6c63ff&strokeWidth=2" width="100%" />
 
 <!-- ░░ CONTACT LINKS ░░ -->
