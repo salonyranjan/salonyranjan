@@ -11,8 +11,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Main Stats & Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: salonyranjan
@@ -25,14 +28,17 @@ jobs:
           plugin_languages_ignored: html, css, scss
           plugin_languages_details: percentage
           
-          # STYLING: Fixes the white background and matches dark themes
+          # STYLING
           config_padding: 0, 8%
           config_twemoji: yes
-          # This makes the background transparent
           plugin_pagespeed: no
           
-          # OUTPUT: This handles the commit automatically and avoids your local error
+          # OUTPUT
           filename: github-metrics.svg
           optimize: css, xml, svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: "chore: update metrics [skip ci]"
+          
+          # Retry configuration to handle API rate limits
+          retries: 3
+          retries_delay: 300
