@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=280&section=header&text=SALONY%20RANJAN&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=AI%20Systems%20%C2%B7%20Voice%20AI%20%C2%B7%203D%20Web%20%C2%B7%20Full-Stack&descSize=20&descAlignY=65&animation=fadeIn&stroke=6c63ff&strokeWidth=2" width="100%" />
 
-<!-- ░░ CONTACT LINKS ░░ -->
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
@@ -27,16 +26,14 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=340&lines=Building+agentic+AI+systems...;Shipping+real-time+voice+AI+experiences...;Cinematic+3D+WebGL+interfaces...;Production-ready+apps%2C+not+just+tutorials.)
 
-Hi, I’m **Salony Ranjan** — I build AI systems, full‑stack apps, and cinematic web experiences that ship live.
+Hi, I'm **Salony Ranjan** — I build AI systems, full‑stack apps, and cinematic web experiences that ship live.
 
 - Working hands‑on with **agentic RAG**, **real‑time voice AI**, and **3D/WebGL frontends**.  
-- I care more about latency, reliability, and UX than just “getting a demo to run.”
+- I care more about latency, reliability, and UX than just "getting a demo to run."
 
-I’m currently seeking **SDE internships** in **AI/ML**, **full‑stack**, or **creative frontend engineering** where I can prototype quickly, iterate with feedback, and deploy user‑facing AI products.
+I'm currently seeking **SDE internships** in **AI/ML**, **full‑stack**, or **creative frontend engineering** where I can prototype quickly, iterate with feedback, and deploy user‑facing AI products.
 
 ---
-
-<!-- ░░ SECTION 4 · FEATURED PROJECTS ░░ -->
 
 ## ◈ Featured Projects
 
@@ -66,6 +63,22 @@ Real-time AI voice interview coach. Ask a question → get RAG-grounded spoken f
 </td>
 <td valign="top" width="50%">
 
+<h4>💊 RxScan AI &nbsp;<img src="https://img.shields.io/badge/NEW-ff6b6b?style=flat-square" /></h4>
+
+Clinical safety terminal that turns handwritten prescriptions into structured medical intelligence in under 50ms. Vision-based OCR reads the script, cross-checks drug interactions live against the NIH database, and flags risk before it reaches a pharmacist.
+
+![Groq](https://img.shields.io/badge/Groq_Llama--4_Vision-F55036?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js)
+![RxNav](https://img.shields.io/badge/NIH_RxNav_API-006600?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[📁 Source](https://github.com/salonyranjan/RxScan-AI)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <h4>📊 ZenithRAG &nbsp;<img src="https://img.shields.io/badge/AWS_PROD-ff9900?style=flat-square&logo=amazonaws&logoColor=white" /></h4>
 
 Production RAG system **deployed on AWS EC2**. Agentic document retrieval, hybrid vector search (FAISS + ChromaDB), and streaming responses over a FastAPI backend. Self-hosted with persistent storage and health-checked services.
@@ -79,8 +92,6 @@ Production RAG system **deployed on AWS EC2**. Agentic document retrieval, hybri
 [🚀 Live Demo](http://13.60.233.173:8080) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ZenithRAG)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <h4>📄 PageWhisper &nbsp;<img src="https://img.shields.io/badge/MCP_Protocol-6c63ff?style=flat-square" /></h4>
@@ -94,21 +105,6 @@ Upload any PDF → ask anything → get voice-powered answers. Multi-agent orche
 ![MCP](https://img.shields.io/badge/MCP_Protocol-6c63ff?style=flat-square)
 
 [🚀 Live Demo](https://page-whisper.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/PageWhisper)
-
-</td>
-<td valign="top" width="50%">
-
-<h4>🤖 AI Career Coach</h4>
-
-LLM-driven career coaching app. Parses resumes + job descriptions, scores match, and generates personalized skill roadmaps using RAG over curated career resources.
-
-![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-6c63ff?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-[📁 Source](https://github.com/salonyranjan/An-AI-powered-Career-Coach-Assistance-Application)
 
 </td>
 </tr>
@@ -167,6 +163,22 @@ Cinematic 3D portfolio — custom GLSL vertex & fragment shaders, GPU particle s
 </td>
 <td valign="top" width="50%">
 
+<h4>🧠 Neural Portfolio &nbsp;<img src="https://img.shields.io/badge/NEW-ff6b6b?style=flat-square" /></h4>
+
+3D interactive portfolio rendered as a live knowledge graph — force-directed physics, a modular data engine, and real-time GitHub API integration that pulls repo data straight into the graph.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+
+[🚀 Live Demo](https://neural-portfolio.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/neural-portfolio)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <h4>🍹 Mocktail</h4>
 
 High-end mixology showcase — scroll-triggered GSAP cinematics, glassmorphism UI, fluid parallax, and staggered reveal animations.
@@ -179,8 +191,6 @@ High-end mixology showcase — scroll-triggered GSAP cinematics, glassmorphism U
 [🚀 Live Demo](https://mocktail-seven.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/Mocktail)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <h4>🎮 GTA-VI Fan Tribute</h4>
@@ -194,6 +204,8 @@ Frame-synchronized recreation of the GTA VI announcement page — layered parall
 [🚀 Live Demo](https://gta-vi-woad.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/GTA-VI)
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <h4>🎞️ Anime Grid</h4>
@@ -207,6 +219,7 @@ Immersive media grid with complex layout animations, GPU-accelerated transitions
 [🚀 Live Demo](https://anime-grid-nine.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/anime-grid)
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 </table>
 
@@ -232,22 +245,6 @@ Crypto intelligence terminal — real-time WebSocket market telemetry, ultra-low
 </td>
 <td valign="top" width="50%">
 
-<h4>🏥 CT Patient Data Dashboard</h4>
-
-Medical imaging analytics — CT scan data visualization with interactive clinical filters, KPI tracking, and exportable reports.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Recharts](https://img.shields.io/badge/Recharts-6c63ff?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-
-[🚀 Live Demo](https://ct-patient-data-dashboard.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ct-patient-data-dashboard)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 <h4>📚 OpenShelf E2E</h4>
 
 End-to-end digital library system — AI-powered search, catalog management, and personalized recommendations.
@@ -258,6 +255,22 @@ End-to-end digital library system — AI-powered search, catalog management, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [🚀 Live Demo](https://openshelf-e2e.streamlit.app/) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/OpenShelf-E2E)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h4>🏥 CT Patient Data Dashboard</h4>
+
+Medical imaging analytics — CT scan data visualization with interactive clinical filters, KPI tracking, and exportable reports.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Recharts](https://img.shields.io/badge/Recharts-6c63ff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+[🚀 Live Demo](https://ct-patient-data-dashboard.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ct-patient-data-dashboard)
 
 </td>
 <td valign="top" width="50%">
@@ -278,8 +291,6 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 </table>
 
 ---
-
-<!-- ░░ SECTION 5 · TECH STACK ░░ -->
 
 ## ◈ Tech Stack
 
@@ -347,13 +358,12 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 ![GLSL](https://img.shields.io/badge/GLSL_Shaders-990000?style=for-the-badge)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-6c63ff?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_Llama--4-F55036?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
-
-<!-- ░░ SECTION 6 · GITHUB STATS ░░ -->
 
 ## ◈ GitHub Activity
 
@@ -373,8 +383,6 @@ Full-stack e-commerce platform — product catalog, cart state, JWT auth, and or
 
 ---
 
-<!-- ░░ SECTION 7 · CURRENTLY BUILDING ░░ -->
-
 ## ◈ Currently Building
 
 ```python
@@ -387,10 +395,10 @@ class SalonyRanjan:
     @property
     def currently_shipping(self):
         return {
+            "RxScan AI"     : "Expanding drug-interaction database coverage",
             "PageWhisper v2": "Multi-agent MCP Protocol orchestration",
             "SonicPrep AI"  : "Multi-turn voice memory + latency optimization",
             "VertexFlow v2" : "Advanced GLSL post-processing pipeline",
-            "Research"      : "LoRA fine-tuning on domain-specific datasets",
         }
 
     @property
@@ -406,8 +414,6 @@ class SalonyRanjan:
 ```
 
 ---
-
-<!-- ░░ SECTION 8 · CERTIFICATIONS ░░ -->
 
 ## ◈ Certifications & Achievements
 
@@ -425,8 +431,6 @@ class SalonyRanjan:
 
 ---
 
-<!-- ░░ SECTION 9 · CONTRIBUTION SNAKE ░░ -->
-
 ## ◈ Contribution Activity
 
 <div align="center">
@@ -440,8 +444,6 @@ class SalonyRanjan:
 </div>
 
 ---
-
-<!-- ░░ SECTION 10 · CONNECT ░░ -->
 
 ## ◈ Let's Build Something
 
@@ -463,5 +465,4 @@ class SalonyRanjan:
 
 ---
 
-<!-- ░░ FOOTER BANNER ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c63ff&height=100&section=footer" width="100%" />
