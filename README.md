@@ -31,7 +31,7 @@ Hi, I'm **Salony Ranjan** — I build AI systems, full‑stack apps, and cinemat
 - Working hands‑on with **agentic RAG**, **real‑time voice AI**, and **3D/WebGL frontends**.  
 - I care more about latency, reliability, and UX than just "getting a demo to run."
 
-I'm currently seeking **SDE internships** in **AI/ML**, **full‑stack**, or **creative frontend engineering** where I can prototype quickly, iterate with feedback, and deploy user‑facing AI products.
+I'm currently seeking **SDE Roles** in **AI/ML**, **full‑stack**, or **creative frontend engineering** where I can prototype quickly, iterate with feedback, and deploy user‑facing AI products.
 
 ---
 
@@ -256,35 +256,6 @@ End-to-end digital library system — AI-powered search, catalog management, and
 
 [🚀 Live Demo](https://openshelf-e2e.streamlit.app/) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/OpenShelf-E2E)
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-<h4>🏥 CT Patient Data Dashboard</h4>
-
-Medical imaging analytics — CT scan data visualization with interactive clinical filters, KPI tracking, and exportable reports.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Recharts](https://img.shields.io/badge/Recharts-6c63ff?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-
-[🚀 Live Demo](https://ct-patient-data-dashboard.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/ct-patient-data-dashboard)
-
-</td>
-<td valign="top" width="50%">
-
-<h4>🛒 QuickCart</h4>
-
-Full-stack e-commerce platform — product catalog, cart state, JWT auth, and order management. End-to-end.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
-
-[🚀 Live Demo](https://quick-cart-blush-alpha.vercel.app) &nbsp;·&nbsp; [📁 Source](https://github.com/salonyranjan/QuickCart)
 
 </td>
 </tr>
@@ -403,13 +374,12 @@ class SalonyRanjan:
 
     @property
     def seeking(self):
-        return "SDE Internship — AI/ML · Full-Stack · Creative Frontend"
+        return "SDE Roles — AI/ML · Full-Stack · Creative Frontend"
 
     def contact(self):
         return {
             "email"   : "salonyranjan@gmail.com",
             "linkedin": "linkedin.com/in/salony-ranjan-b63200280",
-            "location": "Kolkata, West Bengal, India · IST (UTC+5:30)",
         }
 ```
 
@@ -459,7 +429,7 @@ class SalonyRanjan:
 
 <br/>
 
-📍 Kolkata, West Bengal, India &nbsp;·&nbsp; ⏰ IST (UTC+5:30) &nbsp;·&nbsp; ✅ Replies within 24h
+ ⏰ IST (UTC+5:30) &nbsp;·&nbsp; ✅ Replies within 24h
 
 </div>
 
