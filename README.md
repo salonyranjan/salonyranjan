@@ -17,7 +17,7 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=420&lines=Agentic+RAG+%2B+real-time+voice+AI;Custom+GLSL+shaders+%2B+WebGL;Production-first%2C+not+tutorial-first)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 
 
