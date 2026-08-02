@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=240&section=header&text=SALONY%20RANJAN&fontSize=64&fontColor=ffffff&fontAlignY=45&desc=AI%20Systems%20%C2%B7%20Voice%20AI%20%C2%B7%203D%20Web%20%C2%B7%20Full-Stack&descSize=18&descAlignY=65&animation=fadeIn&stroke=6c63ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=240&section=header&text=SALONY%20RANJAN&fontSize=64&fontColor=ffffff&fontAlignY=45" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
@@ -11,21 +11,15 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=420&lines=Agentic+RAG+%2B+real-time+voice+AI;Custom+GLSL+shaders+%2B+WebGL;Production-first%2C+not+tutorial-first" />
 
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=420&lines=Agentic+RAG+%2B+real-time+voice+AI;Custom+GLSL+shaders+%2B+WebGL;Production-first%2C+not+tutorial-first)
-
-<br/>
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
 
 </div>
-
-
 
 ---
 
@@ -35,13 +29,15 @@
 <tr>
 <td valign="top" width="50%">
 
-**🎙️ SonicPrep AI** — real-time AI interview coach. Speech → Gemini 2.5 → RAG → Vapi WebRTC → ElevenLabs, **<600ms** end-to-end.
+**🎙️ SonicPrep AI**
+Real-time AI interview coach. Speech → Gemini 2.5 → RAG → Vapi WebRTC → ElevenLabs, **&lt;600ms** end-to-end.
 [Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep)
 
 </td>
 <td valign="top" width="50%">
 
-**🌐 VertexFlow** — cinematic 3D portfolio built from raw Three.js + custom GLSL shaders + GSAP. No templates.
+**🌐 VertexFlow**
+Cinematic 3D portfolio built from raw Three.js + custom GLSL shaders + GSAP. No templates.
 [Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow)
 
 </td>
@@ -49,13 +45,15 @@
 <tr>
 <td valign="top" width="50%">
 
-**💊 RxScan AI** — prescription OCR + live NIH drug-interaction checks in <50ms.
-[Live](https://rx-scan-ai.vercel.app/)  . [Code](https://github.com/salonyranjan/RxScan-AI)
+**💊 RxScan AI**
+Prescription OCR + live NIH drug-interaction checks in &lt;50ms.
+[Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI)
 
 </td>
 <td valign="top" width="50%">
 
-**🧠 Neural Portfolio** — 3D force-directed knowledge graph, live GitHub API sync, custom physics engine.
+**🧠 Neural Portfolio**
+3D force-directed knowledge graph, live GitHub API sync, custom physics engine.
 [Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio)
 
 </td>
