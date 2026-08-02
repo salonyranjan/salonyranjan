@@ -44,7 +44,7 @@
 <td valign="top" width="50%">
 
 **💊 RxScan AI** — prescription OCR + live NIH drug-interaction checks in <50ms.
-[Code](https://github.com/salonyranjan/RxScan-AI)
+[Live](https://rx-scan-ai.vercel.app/)  . [Code](https://github.com/salonyranjan/RxScan-AI)
 
 </td>
 <td valign="top" width="50%">
