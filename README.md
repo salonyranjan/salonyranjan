@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=240&section=header&text=SALONY%20RANJAN&fontSize=64&fontColor=ffffff&fontAlignY=45" width="100%" />
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vertex-flow-phi.vercel.app/)
@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Roles-00d4aa?style=flat-square&labelColor=0f0c29" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6C63FF&width=420&lines=Agentic+RAG+%2B+real-time+voice+AI;Custom+GLSL+shaders+%2B+WebGL;Production-first%2C+not+tutorial-first" />
 
 <br/><br/>
 
