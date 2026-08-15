@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=240&section=header&text=SALONY%20RANJAN&fontSize=64&fontColor=ffffff&fontAlignY=45" width="100%" />
- 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=SALONY%20RANJAN&fontSize=60&fontColor=ffffff&fontAlignY=45" width="100%" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vertex-flow-phi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salonyranjan)
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20SDE%20Roles-00d4aa?style=flat-square&labelColor=0f0c29" />
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=salonyranjan&label=Profile+Views&color=6c63ff&style=flat-square" />
 
 <br/><br/>
@@ -21,44 +19,15 @@
 
 ## ◈ Flagship Builds
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🎙️ SonicPrep AI**
-Real-time AI interview coach. Speech → Gemini 2.5 → RAG → Vapi WebRTC → ElevenLabs, **&lt;600ms** end-to-end.
-[Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep)
-
-</td>
-<td valign="top" width="50%">
-
-**🌐 VertexFlow**
-Cinematic 3D portfolio built from raw Three.js + custom GLSL shaders + GSAP. No templates.
-[Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**💊 RxScan AI**
-Prescription OCR + live NIH drug-interaction checks in &lt;50ms.
-[Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI)
-
-</td>
-<td valign="top" width="50%">
-
-**🧠 Neural Portfolio**
-3D force-directed knowledge graph, live GitHub API sync, custom physics engine.
-[Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio)
-
-</td>
-</tr>
-</table>
+| Project | Highlights | Links |
+|---|---|---|
+| 🎙️ **SonicPrep AI** | Real-time AI interview coach — Speech → Gemini 2.5 → RAG → Vapi WebRTC → ElevenLabs, **<600ms** end-to-end | [Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep) |
+| 🌐 **VertexFlow** | Cinematic 3D portfolio — raw Three.js, custom GLSL shaders, GSAP. No templates | [Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow) |
+| 💊 **RxScan AI** | Prescription OCR + live NIH drug-interaction checks in **<50ms** | [Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI) |
+| 🧠 **Neural Portfolio** | 3D force-directed knowledge graph, live GitHub API sync, custom physics engine | [Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio) |
 
 <details>
 <summary><b>More projects →</b></summary>
-<br/>
 
 | Project | What it does | Link |
 |---|---|---|
@@ -98,19 +67,6 @@ Prescription OCR + live NIH drug-interaction checks in &lt;50ms.
 
 <img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9&ring_color=6c63ff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideNums=00d4aa&sideLabels=c9d1d9" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonyranjan&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=6c63ff&line=00d4aa&point=ff6b6b&area=true&area_color=6c63ff" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
