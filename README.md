@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=SALONY%20RANJAN&fontSize=60&fontColor=ffffff&fontAlignY=45" width="100%" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Salony+Ranjan&font=Pacifico&center=true&width=560&height=110&size=68&color=6A0DAD,FFD700,3A0CA3&vCenter=true&repeat=false" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonyranjan@gmail.com)
@@ -60,23 +60,9 @@
 
 ---
 
-## ◈ GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salonyranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9&ring_color=6c63ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonyranjan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideNums=00d4aa&sideLabels=c9d1d9" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/salonyranjan/salonyranjan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" width="45%" alt="coding gif" />
 
 </div>
 
