@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://64.media.tumblr.com/64b0f367381d6789defa44016cf6509d/tumblr_pszzl7jOki1ru8plxo1_540.gif" width="45%" alt="hero gif" />
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Salony+Ranjan&font=Pacifico&center=true&width=560&height=110&size=68&color=6A0DAD,FFD700,3A0CA3&vCenter=true&repeat=false" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salony-ranjan-b63200280)
@@ -20,10 +22,10 @@
 
 | Project | Highlights | Links |
 |---|---|---|
-| 🎙️ **SonicPrep AI** | Real-time AI interview coach — Speech → Gemini 2.5 → RAG → Vapi WebRTC → ElevenLabs, **<600ms** end-to-end | [Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep) |
-| 🌐 **VertexFlow** | Cinematic 3D portfolio — raw Three.js, custom GLSL shaders, GSAP. No templates | [Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow) |
-| 💊 **RxScan AI** | Prescription OCR + live NIH drug-interaction checks in **<50ms** | [Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI) |
-| 🧠 **Neural Portfolio** | 3D force-directed knowledge graph, live GitHub API sync, custom physics engine | [Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio) |
+| 🎙️ **SonicPrep AI** | AI interview coach, <600ms voice-to-voice | [Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep) |
+| 🌐 **VertexFlow** | 3D portfolio — Three.js, GLSL, GSAP | [Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow) |
+| 💊 **RxScan AI** | Prescription OCR + drug-interaction checks | [Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI) |
+| 🧠 **Neural Portfolio** | 3D knowledge graph, live GitHub sync | [Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio) |
 
 <details>
 <summary><b>More projects →</b></summary>
