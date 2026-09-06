@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/64b0f367381d6789defa44016cf6509d/tumblr_pszzl7jOki1ru8plxo1_540.gif" width="45%" alt="hero gif" />
+<img src="https://64.media.tumblr.com/64b0f367381d6789defa44016cf6509d/tumblr_pszzl7jOki1ru8plxo1_540.gif" width="45%" alt="hero gif" style="border-radius: 14px;" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Salony+Ranjan&font=Pacifico&center=true&width=560&height=110&size=68&color=6A0DAD,FFD700,3A0CA3&vCenter=true&repeat=false" />
 
@@ -12,23 +12,60 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams.&author=Eleanor%20Roosevelt" width="75%" />
 
 </div>
 
----
+<br/>
 
 ## ◈ Flagship Builds
 
-| Project | Highlights | Links |
-|---|---|---|
-| 🎙️ **SonicPrep AI** | AI interview coach, <600ms voice-to-voice | [Live](https://sonic-prep.vercel.app) · [Code](https://github.com/salonyranjan/sonic-prep) |
-| 🌐 **VertexFlow** | 3D portfolio — Three.js, GLSL, GSAP | [Live](https://vertex-flow-phi.vercel.app) · [Code](https://github.com/salonyranjan/VertexFlow) |
-| 💊 **RxScan AI** | Prescription OCR + drug-interaction checks | [Live](https://rx-scan-ai.vercel.app/) · [Code](https://github.com/salonyranjan/RxScan-AI) |
-| 🧠 **Neural Portfolio** | 3D knowledge graph, live GitHub sync | [Live](https://neural-portfolio.vercel.app) · [Code](https://github.com/salonyranjan/neural-portfolio) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎙️ SonicPrep AI**
+<br/>
+AI interview coach, &lt;600ms voice-to-voice
+<br/><br/>
+**[Live](https://sonic-prep.vercel.app)** &nbsp;·&nbsp; **[Code](https://github.com/salonyranjan/sonic-prep)**
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 VertexFlow**
+<br/>
+3D portfolio — Three.js, GLSL, GSAP
+<br/><br/>
+**[Live](https://vertex-flow-phi.vercel.app)** &nbsp;·&nbsp; **[Code](https://github.com/salonyranjan/VertexFlow)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💊 RxScan AI**
+<br/>
+Prescription OCR + drug-interaction checks
+<br/><br/>
+**[Live](https://rx-scan-ai.vercel.app/)** &nbsp;·&nbsp; **[Code](https://github.com/salonyranjan/RxScan-AI)**
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Neural Portfolio**
+<br/>
+3D knowledge graph, live GitHub sync
+<br/><br/>
+**[Live](https://neural-portfolio.vercel.app)** &nbsp;·&nbsp; **[Code](https://github.com/salonyranjan/neural-portfolio)**
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More projects →</b></summary>
+<br/>
 
 | Project | What it does | Link |
 |---|---|---|
@@ -42,33 +79,37 @@
 
 </details>
 
----
+<br/>
 
 ## ◈ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,nextjs,threejs,tailwind,fastapi,pytorch,aws,docker,postgres,git" /><br/><br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-00d4aa?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi%20WebRTC-6c63ff?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=for-the-badge)
-![GLSL](https://img.shields.io/badge/GLSL-990000?style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_Llama--4-F55036?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,nextjs,threejs,tailwind,fastapi,pytorch,aws,docker,postgres,git,nodejs,prisma,supabase,vercel,d3" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" width="45%" alt="coding gif" />
+| Category | Technologies |
+|:---|:---|
+| **AI / ML & LLM Infra** | Gemini 2.5 · Groq Llama-4 · LangChain · Vapi WebRTC · ElevenLabs · Model Context Protocol (MCP) · FAISS · ChromaDB |
+| **Graphics & Motion** | GLSL · GSAP · Leaflet |
+| **Backend & Deployment** | Streamlit · Render · Resend · Apify · ReportLab |
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" width="45%" alt="coding gif" style="border-radius: 14px;" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
