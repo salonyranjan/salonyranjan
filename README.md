@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams.&author=Eleanor%20Roosevelt" width="75%" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&category=motivational" width="75%" />
 
 </div>
 
