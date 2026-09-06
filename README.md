@@ -87,17 +87,11 @@ Prescription OCR + drug-interaction checks
 
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,nextjs,threejs,tailwind,fastapi,pytorch,aws,docker,postgres,git,nodejs,prisma,supabase,vercel,d3" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
-| Category | Technologies |
-|:---|:---|
-| **AI / ML & LLM Infra** | Gemini 2.5 · Groq Llama-4 · LangChain · Vapi WebRTC · ElevenLabs · Model Context Protocol (MCP) · FAISS · ChromaDB |
-| **Graphics & Motion** | GLSL · GSAP · Leaflet |
-| **Backend & Deployment** | Streamlit · Render · Resend · Apify · ReportLab |
+| AI / ML & LLM Infra | Graphics & Motion | Backend & Deployment |
+|:---|:---|:---|
+| Gemini 2.5 · Groq Llama-4 · LangChain · Vapi · ElevenLabs · MCP · FAISS · ChromaDB | GLSL · GSAP · Leaflet | Streamlit · Render · Resend · Apify · ReportLab |
 
 </div>
 
